@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "Myfont";
+    src: url("/letur/Myfont-Regular.otf") format("opentype");
+  }
+
+.divy {
+    font-family: "Myfont";
+    background-color: antiquewhite;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    position: relative;
+    width: 500px;
+    height: 500px;
+    font-size: 30px;
+    outline: none;
+    resize: both;
+    overflow: auto;
+    
+    letter-spacing: 8px;
+    line-height: 40px; 
+  }
+
+  /* p {
+    font-family: "Myfont";
+      writing-mode: vertical-lr;
+      text-orientation: upright;
+      width:50%;
+      height:150px;
+ 
+} */
