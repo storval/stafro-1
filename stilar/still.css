@@ -19,10 +19,10 @@
     outline: none;
     resize: both;
     overflow: auto;
-    
     letter-spacing: 8px;
     line-height: 40px; 
   }
+
 
   /* p {
     font-family: "Myfont";
